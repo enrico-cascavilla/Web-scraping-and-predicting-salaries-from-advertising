@@ -1,0 +1,564 @@
+	Job	Company	Salary	Location
+30	Data Analyst, PNA	New York City NYC HOUSING AUTHORITY	89349.0	Manhattan, NY
+131	RESEARCH SCIENTIST	New York City HRA/DEPT OF SOCIAL SERVICES	78803.0	Manhattan, NY
+146	Policy and Data Analyst	New York City DEPT OF HEALTH/MENTAL HYGIENE	65385.5	Manhattan, NY
+147	Program Officer	New York City ADMIN FOR CHILDREN'S SVCS	79796.5	Manhattan, NY
+160	Distinguished Data Scientist	Verizon	155500.0	New York, NY 10007 (Financial District area)
+162	Data Scientist	Affinity Health Plan	103500.0	Bronx, NY
+166	Data Scientist Senior	Northeast Information Discovery	107500.0	Canastota, NY
+167	Data Scientist, Analytics	TripleLift	115500.0	New York, NY
+180	Data Scientist - Cryptography and Internet Technology, Marke...	Facebook	142000.0	New York, NY 10017 (Midtown area)
+181	Data Scientist	Phreesia	128500.0	New York, NY 10010 (Gramercy area)
+182	Data Scientist	Vettery	121000.0	New York, NY
+185	Sr. Data Science Developer - Refinitiv Labs	Refinitiv	173500.0	New York, NY 10036
+186	Data Scientist	S&P Global Ratings	135000.0	New York, NY 10041 (Financial District area)
+191	Interdisciplinary General Engineer/Operations Research Analy...	US Department of Homeland Security	102121.0	New York, NY
+222	DIRECTOR OF DATA ANALYTICS AND RESEARCH	New York City DEPARTMENT OF CORRECTION	98402.5	Queens, NY
+230	Data Scientist	Rauxa	135000.0	New York, NY
+231	DATA RESEARCH SPECIALIST	New York City HRA/DEPT OF SOCIAL SERVICES	82653.0	Manhattan, NY
+239	Data Scientist, Natural Language Processing	Etsy	136000.0	New York, NY
+250	HIV Phylogenetic Data Analysis Group Leader	New York City DEPT OF HEALTH/MENTAL HYGIENE	91931.0	Manhattan, NY
+260	Program Analytics / Data Analysis Manager	Osborne Association	57500.0	Bronx, NY 10455 (South Bronx area)
+264	DATA AND REPORTING SPECIALIST	New York City HRA/DEPT OF SOCIAL SERVICES	91004.0	Manhattan, NY
+271	Data Scientist, Division Management & Systems Coordination	New York City DEPT OF HEALTH/MENTAL HYGIENE	82012.5	Queens, NY
+288	Senior Data Analyst	New York City DEPARTMENT OF TRANSPORTATION	73873.5	Manhattan, NY
+314	Inventive Scientist (Labs - Data Science and AI Research)	AT&T	157500.0	New York, NY
+327	Project Associate/Research Analyst (REF# SJ042)	Empire State Development, NYS	52305.0	Albany, NY
+332	Research Scientist 6, Nathan Kline Research Institute – Cent...	Mental Health, Office of	34130.0	Orangeburg, NY
+346	Special Investigator Advisor	New York City BOARD OF CORRECTION	82653.0	New York, NY
+364	Program Officer	NYC Administration for Children's Services	79796.5	Manhattan, NY
+373	Core Data Science, PhD University Grad	Facebook	139500.0	New York, NY 10017 (Midtown area)
+377	Deputy Lead Data Scientist	New York City DEPT OF INFO TECH & TELECOMM	117500.0	Brooklyn, NY
+379	Director, Machine Learning Data Scientist	KPMG	141500.0	New York, NY 10261 (Murray Hill area)
+388	Data Science Lead	Comcast	128500.0	New York, NY 10036
+394	Title: Institutional Research Analyst	Hunter College, CUNY	42619.5	New York, NY
+399	Director of Data Analytics	New York City DEPT OF DESIGN & CONSTRUCTION	110966.0	Queens, NY
+401	Data Scientist	AdTheorent	126000.0	New York, NY 10013 (Tribeca area)
+412	Data and Technology Analyst, Bureau of Emergency Field Opera...	New York City DEPT OF HEALTH/MENTAL HYGIENE	79152.5	Queens, NY
+416	Full Stack Developer with a specialty in Natural Language Pr...	The New School	85000.0	New York, NY
+418	Data Scientist - Principal - New York, NY	Clarity Insights	145000.0	New York, NY
+434	GIS Analyst	New York City DEPT OF ENVIRONMENT PROTECTION	62693.0	Queens, NY
+462	Computational Scientist	Research Foundation of The City University of New...	56000.0	New York, NY
+523	Research Scientist	New York City DEPT OF HEALTH/MENTAL HYGIENE	65385.5	Queens, NY
+529	Evaluation Data Analyst, Bureau of Primary Care Information...	New York City DEPT OF HEALTH/MENTAL HYGIENE	77152.5	Queens, NY
+549	Senior Advisor for Intergovernmental Affairs	New York City DEPT OF ENVIRONMENT PROTECTION	82321.5	Manhattan, NY
+551	POLICY and OPERSTIONS RESEARCH | ANALYST	New York City OFFICE OF MANAGEMENT & BUDGET	61797.5	Manhattan, NY
+564	Strategic Research Analyst	Service Employees International Union	57500.0	New York, NY 10036
+613	Project Director	New York City BOARD OF CORRECTION	78803.0	New York, NY
+630	Data Scientist and Quantitative Dev Lead	Liquidnet	177000.0	New York, NY
+632	Trainee (ATLAS/Back End Developer), Global Health	Mount Sinai	109000.0	New York, NY
+633	Software Engineer, Data Science / Real Time Platform (Java,...	AppNexus	127500.0	New York, NY 10010 (Gramercy area)
+646	Data Integrity Analyst/ Bureau of Mental Health	New York City DEPT OF HEALTH/MENTAL HYGIENE	68810.5	Queens, NY
+664	Quality Management Specialist	New York City DEPT OF HEALTH/MENTAL HYGIENE	65385.5	Queens, NY
+684	Cardiovascular Research Analyst	New York City DEPT OF HEALTH/MENTAL HYGIENE	91931.0	Queens, NY
+715	POLICY ADVISOR	New York City DEPT OF ENVIRONMENT PROTECTION	85606.5	Manhattan, NY
+772	Cost Price Analyst, Office of Vendor Research and Price Anal...	New York City Department of Education .	70370.0	Brooklyn, NY 11236 (Canarsie area)
+796	AI Data Science Sr. Manager	Accenture	136000.0	New York, NY 10011 (Chelsea area)
+798	Director of Data Analysis, Bureau of Early Intervention	New York City DEPT OF HEALTH/MENTAL HYGIENE	92304.0	Queens, NY
+814	Project Assistant, Bureau of Alcohol and Drug Use Prevention...	New York City DEPT OF HEALTH/MENTAL HYGIENE	65385.5	Queens, NY
+823	Product Design Lead UX Data Sciences	Publicis Media	147500.0	New York, NY 10014 (West Village area)
+824	Senior Manager- Data Science	Discovery Communications, LLC	161000.0	New York, NY 10022 (Midtown area)
+825	Controller	BuzzFeed	138000.0	New York, NY 10013 (Tribeca area)
+826	Research Director (Health & Mental Health)	New York City BOARD OF CORRECTION	78803.0	New York, NY
+828	Child Welfare Analyst	New York City ADMIN FOR CHILDREN'S SVCS	77035.0	Manhattan, NY
+857	Permit Manager	New York City DEPT OF ENVIRONMENT PROTECTION	55435.0	Queens, NY
+860	Technical Assistance Specialist, Bureau of Alcohol and Drug...	New York City DEPT OF HEALTH/MENTAL HYGIENE	65385.5	Queens, NY
+865	Environmental Scientist, Bureau of Environmental Disease and...	New York City DEPT OF HEALTH/MENTAL HYGIENE	82175.0	Manhattan, NY
+896	Systems Support Engineer	Two Sigma Investments, LLC.	107000.0	New York, NY
+905	AVP - PVAI - Inhouse SB Data Scientist - CPG - US	Genpact	155500.0	New York, NY 10016 (Gramercy area)
+964	Research Coordinator, Bureau of Vital Statistics	New York City DEPT OF HEALTH/MENTAL HYGIENE	62272.0	Manhattan, NY
+970	Quality Assurance & Operations Coordinator, Bureau of Sexual...	New York City DEPT OF HEALTH/MENTAL HYGIENE	82653.0	Queens, NY
+974	Digital Asset Librarian	Environmental Defense Fund	83500.0	New York, NY 10010 (Gramercy area)
+977	Security Analytics Engineer – Marcus – Trust and Tech Risk	Goldman Sachs	156000.0	New York, NY 10282 (Tribeca area)
+1000	Data Scientist Summer Internship 2019	BMW Technology Corporation	38500.0	Chicago, IL
+1001	Data Scientist	Grainger	73000.0	Chicago, IL 60654 (Loop area)
+1002	Campus: Data Scientist (Summer 2019 Start)	Optiver US	85000.0	Chicago, IL
+1004	Data Scientist	Crowe	126500.0	Chicago, IL 60606 (Loop area)
+1006	Data Scientist - Versay	Vail Systems, Inc.	125000.0	Chicago, IL 60606 (Loop area)
+1007	Master Data Scientist	Deloitte	89000.0	Chicago, IL 60606 (Loop area)
+1008	Data Scientist / Quantitative Analyst	S&P GLOBAL MARKET INTELLIGENCE	106500.0	Chicago, IL 60601 (Loop area)
+1041	Data Scientist, Social Science	Civis Analytics	110000.0	Chicago, IL
+1042	Associate Data Scientist	Blue Cross Blue Shield of IL, MT, NM, OK & TX	115500.0	Chicago, IL
+1044	Data Scientist	Reputation.com	116500.0	Chicago, IL
+1046	Data Scientist - Telecommunications	TransUnion	129000.0	Chicago, IL 60661 (Near West Side area)
+1047	Data Scientist	1-800-Flowers.com	89000.0	Melrose Park, IL
+1049	Data Scientist Architect	Insight	114000.0	Chicago, IL 60642 (Portage Park area)
+1050	Data Science Engineer	Mintel	120000.0	Chicago, IL
+1052	Senior Manager - Data Science	United Airlines Inc.	133500.0	Chicago, IL 60601 (Loop area)
+1054	Data Scientist	Syndigo	136500.0	Chicago, IL
+1056	Insurance Data Scientist	TransUnion	109000.0	Chicago, IL 60661 (Near West Side area)
+1059	Eicoff - Data Scientist	Ogilvy	120500.0	Chicago, IL
+1064	Data Scientist - Life Sciences	Argonne National Laboratory	87500.0	Lemont, IL 60439
+1065	Data Scientist	Capax Global LLC	116500.0	Chicago, IL
+1069	Data Scientist	KEYENCE	86500.0	Itasca, IL 60143
+1110	Data Science Consultant (Resources)	Accenture	135000.0	Chicago, IL
+1111	Data Scientist	devwrx	115500.0	Chicago, IL
+1115	Data Scientist - Decision Sciences Personal Valuation team	Conversant Media	121000.0	Chicago, IL
+1116	Data Scientist - Decision Sciences Personal Valuation team	Epsilon	121000.0	Chicago, IL
+1119	Data Scientist	Case New Holland Industrial	106500.0	Burr Ridge, IL
+1123	Analytics Developer, Data Science and Analytics	TransUnion	135000.0	Chicago, IL 60661 (Near West Side area)
+1181	Environmental Engineer/Physical Scientist/Life Scientist	U.S. Federal Government	93231.5	Chicago, IL
+1335	Specialist Director, Machine Learning, Data Scientist	KPMG	132000.0	Chicago, IL 60290 (Loop area)
+1343	Senior Software Data Engineer	Gogo Commercial Aviation	130000.0	Chicago, IL
+1352	Principal Cloud Data Engineer/Architect	Discover Financial Services	148000.0	Chicago, IL
+1355	Database Architect Consultant	IMO - Intelligent Medical Objects, Inc.	140000.0	Rosemont, IL 60018
+1362	UI Front End Developer	Molex	117500.0	Chicago, IL 60606 (Loop area)
+1366	Software Engineer	HERE Technologies	114000.0	Chicago, IL
+1460	DevOps Engineer	The University of Chicago	124500.0	Chicago, IL
+1481	Sr Software Engineer	General Electric	131000.0	Chicago, IL 60601 (Loop area)
+1482	Post Doctoral Research Fellow - NGS & Molecular Genomics	Rush University Medical Center	52500.0	Chicago, IL
+1483	Senior Managing Actuary	Blue Cross Blue Shield of IL, MT, NM, OK & TX	124000.0	Chicago, IL
+1484	Mechanical/HVAC Engineer	Argonne National Laboratory	82000.0	Lemont, IL 60439
+1487	Senior Data Science Product Manager	Blue Cross Blue Shield of IL, MT, NM, OK & TX	143500.0	Chicago, IL
+1488	Software Engineer (Java/Scala/Spark)	Nielsen	119000.0	Chicago, IL 60647
+1529	Research Coordinator	Slover Linett	45500.0	Chicago, IL
+1530	Sr. Data Scientist	Levi, Ray & Shoup, Inc	120000.0	Burr Ridge, IL 60527
+1538	029: Data Engineer - Consulting	Dataspace	175000.0	Chicago, IL
+1560	Data Scientist, Applied Machine Learning - RNA	Tempus	120000.0	Chicago, IL 60654 (Loop area)
+1561	Data Engineer/Scientist	10th Magnitude	118000.0	Chicago, IL 60606 (Loop area)
+1564	Front End Developer Angular	Arturo	95000.0	Chicago, IL
+1565	Postdoctoral Research Scientist, Vertebrate Paleontology	The Field Museum	55000.0	Chicago, IL
+1579	Sales Research Analyst	Harris & Harris, Ltd.	40000.0	Chicago, IL 60661 (Near West Side area)
+1672	Senior Software Engineer - Platform Team	Fooda	123500.0	Chicago, IL 60606 (Loop area)
+1674	Senior Scala Developer – Cloud Computing	Enterprise Peak	140000.0	Chicago, IL
+1680	Tech Lead | Engineering Manager	Civis Analytics	132000.0	Chicago, IL
+1683	Senior Devops Engineer	Tempus	114000.0	Chicago, IL
+1685	Senior Front End Engineer	PhysIQ, Inc.	115000.0	Chicago, IL 60606 (Loop area)
+1686	Senior DevOps Engineer	Civis Analytics	123000.0	Chicago, IL
+1823	DevOps Engineer	Lumere	113000.0	Chicago, IL
+2030	Summer Internship 2019 - Software Engineer (Houston)	Arundo Analytics	44000.0	Houston, TX
+2032	Data Scientist- Digital Media	David Weekley Homes	167000.0	Houston, TX
+2033	Data Scientist, Revenue Management 1	Sysco	107000.0	Houston, TX 77077 (West Houston area)
+2036	Data Scientist	CGG	114000.0	Houston, TX
+2038	Data Scientist (EG)	Pros.	115000.0	Houston, TX
+2039	Data Science Consultant (Resources)	Accenture	130000.0	Houston, TX 77006 (Montrose area)
+2049	Healthcare Data Science Consultant	Accenture	144500.0	Houston, TX 77006 (Montrose area)
+2071	INSTITUTE ASSOCIATE SCIENTIST I - IN-VITRO PHARMACOLOGY	MD Anderson Cancer Center	38000.0	Houston, TX
+2073	RESEARCH SCIENTIST - DR. KAPIL N. BHALLA'S LABORATORY	MD Anderson Cancer Center	66500.0	Houston, TX
+2083	Data Engineer- Data Modeler/Data Warehouse Developer	Tailored Brands	118500.0	Houston, TX 77072 (Sugarland area)
+2137	Director, Machine Learning Data Scientist	KPMG	122500.0	Houston, TX 77058 (Pasadena area)
+2146	Medical Lab Scientist, Lab Services - Victory Lakes Patholog...	UTMB	67000.0	League City, TX 77573
+2177	Sr Software Engineer - Houston, TX	Baker Hughes	124000.0	Houston, TX
+2183	Research Associate	Baylor College of Medicine	60000.0	Houston, TX
+2186	Java Developer	Baylor College of Medicine	106820.0	Houston, TX
+2234	MELANOMA MEDICAL ONCOLOGY- RESEARCH NURSE	MD Anderson Cancer Center	81500.0	Houston, TX
+2236	Experienced Mechanical Engineer Houston	Wiss, Janney, Elstner Associates	98500.0	Houston, TX 77043 (Spring Branch area)
+2241	Research Data Scientist	UM	119000.0	Houston, TX
+2242	Data Scientist	SelectMinds	122500.0	Houston, TX
+2244	Data Scientist - Splunk	Leidos Cyber	111500.0	Houston, TX
+2298	DevOps Specialist - Platform Team	MRI Technologies	120000.0	Houston, TX 77058 (Pasadena area)
+2300	Front-End Developer (React)	Expero	113500.0	Houston, TX
+2301	DevOps Engineer	Arundo Analytics	109000.0	Houston, TX
+2438	Software Developer	SmartPark, LLC	91500.0	Houston, TX
+2441	Full Stack Software Engineer	Arundo Analytics	126000.0	Houston, TX
+2442	Software Engineer - UI Focus	Arundo Analytics	90000.0	Houston, TX
+2998	Sponsor Funded Professional | Data Scientist	Georgia State University	70692.5	Atlanta, GA
+3004	Health Scientist	Centers for Disease Control and Prevention	126767.5	Atlanta, GA
+3007	Data Scientist - Master's Entry Level Consultant - Atlanta	Capgemini	122500.0	Atlanta, GA
+3012	Data Scientist, Data Science and Analytics	BD	99500.0	Tucker, GA
+3016	DATA SCIENTIST- Space Optimization	The Home Depot	120500.0	Atlanta, GA
+3067	Biologist	Centers for Disease Control and Prevention	108579.0	Atlanta, GA
+3108	Data Science Consultant - Supply Chain	Accenture	105000.0	Atlanta, GA 30303 (Five Points area)
+3111	Manager, Data Scientist, Machine Learning	KPMG	115000.0	Atlanta, GA 30338
+3112	Data Scientist Pricing Manager	Greensky	134000.0	Atlanta, GA
+3113	Financial Analyst II, Research-Piedmont Heart Institute, Atl...	Piedmont Healthcare	54000.0	Atlanta, GA 30318
+3118	Data Scientist - Consultant level in Atlanta!	Capgemini	135000.0	Atlanta, GA
+3120	Data Science Consultant (Resources)	Accenture	127500.0	Atlanta, GA 30303 (Five Points area)
+3140	The Carter Center: Prospect Research Analyst, Development, M...	Emory University	54000.0	Atlanta, GA
+3160	Specialist Director, Machine Learning, Data Scientist	KPMG	127500.0	Atlanta, GA 30338
+3218	CCR/Fly Ash Project Engineer	Stantec	85500.0	Atlanta, GA 30309 (Midtown area)
+3219	Theory and Modeling of Living Systems (TMLS) Postdoctoral Fe...	Emory University	44000.0	Atlanta, GA
+3221	Front-End Developer - People Analytics & Measurement	McKinsey & Company	114500.0	Atlanta, GA 30318
+3278	AI Data Science Sr. Manager	Accenture	147500.0	Atlanta, GA 30303 (Five Points area)
+3279	Pharmacology - Post Doctoral Fellow	Emory University	44000.0	Atlanta, GA
+3284	Systems Software Engineer	Emory University	94500.0	Atlanta, GA
+3285	Data Science Sr. Manager (Healthcare Payer)	Accenture	160000.0	Atlanta, GA 30303 (Five Points area)
+3286	Embedded Communications System Software/Firmware Analyst (Rx...	Georgia Tech Research Institute	90000.0	Atlanta, GA 30318
+3347	Data Scientist for AI Platform	DecisionIQ, Inc.	110000.0	Atlanta, GA
+3356	030: Data Engineer - Consulting	Dataspace	175000.0	Atlanta, GA
+3358	Operations Research Scientist - 11754376	Aptonet Inc.	87500.0	Atlanta, GA 30309 (Midtown area)
+3364	Statistical Quantitative Analyst (SAS Experience Required)	Microf	67500.0	Roswell, GA 30076
+3369	Cloud Data Engineer	Cloudreach	130500.0	Atlanta, GA
+3372	Software Engineer	Konnektive LLC	77500.0	Roswell, GA
+3471	Front End Engineer, Connect	Loyal	98000.0	Atlanta, GA
+3994	Data Scientist	City of Dallas, TX	107507.5	Dallas, TX
+4073	Director, AI and NLP Data Scientist	KPMG	93000.0	Dallas, TX 75215 (South Boulevard-Park Row area)
+4087	Marketing Research Specialist	Society of Petro Eng.	43000.0	Richardson, TX
+4114	Azure Data Architect	Quisitive	147000.0	Dallas, TX
+4148	Regulatory Analyst - Human Research Protection Program	UT Southwestern Medical Center	58000.0	Dallas, TX
+4151	Business Systems Analyst, Global Supply Chain	JUUL Labs	87000.0	Dallas, TX
+4172	Security Incident Response Engineer – Marcus – Trust & Tech...	Goldman Sachs	128000.0	Richardson, TX
+4176	Software Engineering Manager - Home Health	AXXESS CONSULT INC	132500.0	Dallas, TX
+4177	Financial Analyst II - Hamon Center for Therapeutic Oncology...	UT Southwestern Medical Center	57000.0	Dallas, TX
+4182	Sr Product Manager	AT&T	126000.0	Plano, TX
+4183	Systems Engineer - US	ITL USA	89500.0	Richardson, TX
+4185	Sr Manager, Data Science	7-Eleven	129500.0	Irving, TX
+4249	Senior Product Manager	Givelify	122500.0	Dallas, TX
+4256	Senior Front-end Developer	Ansira	102500.0	Dallas, TX
+4257	O365 Architect	Quisitive	115500.0	Dallas, TX
+4272	Senior AEM Developer	Ansira	107000.0	Dallas, TX
+4274	Azure Application Architect	Quisitive	169000.0	Dallas, TX
+4275	Azure Infrastructure Architect	Quisitive	142000.0	Dallas, TX
+4281	Marketing Application / Solution Architect	NOKIA	135000.0	Irving, TX 75039
+4301	Senior Machine Learning and Artificial Intelligence Data Sci...	ProForce Innovations	159500.0	Dallas-Fort Worth, TX
+4328	Software Architect	Event Dynamic	133000.0	Dallas, TX
+4379	Azure Infrastructure Architect (IaaS)	Quisitive	148500.0	Dallas-Fort Worth, TX
+4487	Sr Product Manager	CBRE	119000.0	Dallas, TX
+5013	Applied Data Scientist	Yelp	127500.0	San Francisco, CA
+5014	Data Scientist, Product	Slack	122500.0	San Francisco, CA
+5015	2019 Summer Intern - Data Scientist, Walmart International	Walmart Stores	131500.0	San Bruno, CA 94066
+5016	Data Scientist, Operations	Square	119000.0	San Francisco, CA 94103 (South Of Market area)
+5019	Data Scientist	Globant	132000.0	San Francisco, CA 94103 (South Of Market area)
+5021	Expert Data Scientist	Pacific Gas And Electric Company	139500.0	San Francisco, CA 94105 (Financial District area)
+5022	Product Data Scientist	Twitter	153500.0	San Francisco, CA 94103 (South Of Market area)
+5023	Product Data Scientist	King.com	135000.0	San Francisco, CA
+5024	Data Scientist - Forecasting	Capital One	132000.0	San Francisco, CA
+5025	Data Scientist | Shared Rides	Uber	147000.0	San Francisco, CA 94103 (South Of Market area)
+5026	Data Scientist, Recommendation and Ranking	Etsy	136000.0	San Francisco, CA
+5027	Data Scientist, Neuroimaging	BlackThorn Therapeutics	157000.0	San Francisco, CA
+5028	Data Scientist, Cash App	Square	130000.0	San Francisco, CA 94103 (South Of Market area)
+5029	Data Scientist	Varo Money	119500.0	San Francisco, CA
+5030	Data Scientist	Coherent, Inc.	130500.0	Richmond, CA
+5031	Data Scientist	LimeBike	163500.0	San Francisco Bay Area, CA
+5032	Data Scientist	RiskIQ	127500.0	San Francisco, CA 94103 (South Of Market area)
+5064	Data Systems Analyst	University of California San Francisco	89000.0	San Francisco, CA
+5065	Data Scientist	Walmart Stores	115000.0	San Bruno, CA 94066
+5067	Data Science Lead - San Francisco	Bind Benefits	121000.0	San Francisco, CA 94103 (South Of Market area)
+5068	Biorepository Research Data Systems Analyst	University of California San Francisco	91500.0	San Francisco, CA
+5069	Associate Data Scientist	Ten-X	159500.0	San Mateo, CA
+5072	Part-time instructor of Statistics for Data Science and Mach...	Kaplan Test Prep	110000.0	San Francisco, CA 94105 (Financial District area)
+5073	Data Scientist	Snowflake Computing	125000.0	San Mateo, CA
+5074	Data Scientist	Eaze	146000.0	San Francisco, CA
+5083	Data Scientist	Coherent Germany	131500.0	Richmond, CA 94806
+5088	Data Scientist (Multiple Levels)	Oracle	158500.0	San Francisco, CA 94109 (Nob Hill area)
+5089	Data Scientist, Risk	Square	143000.0	San Francisco, CA 94103 (South Of Market area)
+5091	Data Scientist | Rider Experience	Uber	145500.0	San Francisco, CA 94103 (South Of Market area)
+5092	Data Scientist	Earnest	145000.0	San Francisco, CA 94110 (Mission area)
+5103	Product Data Scientist - Quip	Salesforce	127500.0	San Francisco, CA 94105 (Financial District area)
+5105	Data Scientist	Grammarly, Inc.	140000.0	San Francisco, CA 94104 (Financial District area)
+5107	Data Scientist, Product analytics	StubHub	118500.0	San Francisco, CA 94105 (Financial District area)
+5108	Data Scientist	Zeus Living	128500.0	San Francisco, CA
+5109	Data Scientist	Walmart eCommerce	115000.0	San Bruno, CA 94066
+5226	2019 PhD Data Scientist Internship - Risk	Uber	154500.0	San Francisco, CA 94105 (Financial District area)
+5227	Data Scientist	Change Healthcare	129000.0	Emeryville, CA
+5231	Staff Data Scientist	Walmart eCommerce	141500.0	San Bruno, CA 94066
+5232	Head of Data Science, Growth	Dropbox	148500.0	San Francisco, CA 94102 (Downtown area)
+5233	Data Science Instructor, Senior Data Scientist	Galvanize	179000.0	San Francisco, CA
+5242	Data Scientist, Imaging, Personalized Healthcare (PHC)	Genentech	163500.0	South San Francisco, CA 94080
+5266	Data Scientist - Machine Learning Specialist	Upstart	125000.0	San Carlos, CA
+5268	Data Scientist – Intern (Summer 2019)	C3	169500.0	Redwood City, CA 94063
+5289	Data Scientist - New Mobility Optimization (Bikes, Scooters)	Uber	138500.0	San Francisco, CA 94103 (South Of Market area)
+5318	NLP DATA SCIENTIST / ANALYTIC CONSULTANT 4	Wells Fargo	122500.0	San Francisco, CA
+5320	Environmental Engineer/Physical Scientist/Life Scientist	U.S. Federal Government	94531.0	San Francisco, CA
+5323	IT Data Scientist / Business Systems Analyst	SQA Solution	120500.0	South San Francisco, CA
+5325	Product Analytics Lead, Data Science	Google	106500.0	San Bruno, CA
+5340	Planning and Research Analyst	San Mateo County Community College District	110664.0	Redwood City, CA
+5472	Machine Learning Engineer	Synapse Financial Technologies Inc	115000.0	San Francisco, CA
+5497	Mechanical Engineering Intern, 3-D Printing	Mettler Toledo	72500.0	Oakland, CA
+5498	Part-time instructor of Statistics for Data Science and Mach...	Kaplan	128000.0	San Francisco, CA 94105 (Financial District area)
+5500	Software Engineer Internship - Merch Tech	Walmart eCommerce	131000.0	San Bruno, CA 94066
+5503	Data Science Manager, Education	Chan Zuckerberg Initiative	87000.0	Redwood City, CA
+5506	Software Engineer- Data Streaming	Change.org	177500.0	San Francisco, CA 94103 (South Of Market area)
+5514	eCommerce Full Stack Engineer	PepsiCo	124000.0	San Francisco, CA
+5625	Full Stack Data Architect	RingCentral	131500.0	Belmont, CA
+5627	Data Warehouse Engineer	Komodo Health	132500.0	San Francisco, CA
+5629	Construction Control Representative	US Department of the Army	104090.5	San Francisco, CA
+5667	Software Engineer (Machine Learning)	Clerkie	125000.0	San Francisco, CA
+5670	Research Post Doctoral Fellow	Kaiser Permanente	53500.0	Oakland, CA
+5704	Software Engineer, ARCore	Google	130000.0	San Francisco, CA 94105 (Financial District area)
+5705	Data Science and Machine Learning - Technical Director	Salesforce	178000.0	San Francisco, CA 94105 (Financial District area)
+5707	Lecturer - Sutardja Center for Entrepreneurship & Technology	University of California Berkeley	110100.0	Berkeley, CA
+5709	Software Engineer, Imaging	Google	139500.0	San Francisco, CA 94105 (Financial District area)
+5758	Fullstack Software Engineer - Talent Products	Uber	154500.0	San Francisco, CA 94105 (Financial District area)
+5843	Senior Software Engineer, Data Platform	Rigetti Computing	121500.0	Berkeley, CA
+5968	Senior Product Manager, Artificial Intelligence	Zillow Group	126000.0	San Francisco, CA 94102 (Downtown area)
+5970	Software Engineer, Customer Engineering Team	Benchling	147500.0	San Francisco, CA 94103 (South Of Market area)
+5982	Senior Software Engineer, Data Analytics	Autodesk	130000.0	San Francisco, CA 94105 (Financial District area)
+5983	Data Quality Statistical Analyst	U.S. District Court - District of Arizona	59832.5	Phoenix, AZ
+6033	Data Processing - Test Engineer	NantEnergy, Inc.	90500.0	Scottsdale, AZ 85258 (North Scottsdale area)
+6036	Industrial Engineer - Data Scientist	ViaSat	114000.0	Tempe, AZ
+6040	NLP DATA SCIENTIST / ANALYTIC CONSULTANT 4	Wells Fargo	103000.0	Phoenix, AZ
+6041	OPERATIONS RESEARCH	US Department of the Navy	98797.0	Phoenix, AZ 85032 (Paradise Valley area)
+6050	GENERAL PHYSICAL SCIENTIST	US Department of the Navy	67085.5	Phoenix, AZ 85032 (Paradise Valley area)
+6066	ENVIRONMENTAL SCIENTIST 3 - COMPLIANCE OFFICER	State of Arizona	50000.0	Phoenix, AZ 85007 (Central City area)
+6075	Physicist	US Department of the Navy	98797.0	Phoenix, AZ 85032 (Paradise Valley area)
+6081	TRANSPORTATION PLANNER MANAGER	State of Arizona	70000.0	Phoenix, AZ 85007 (Central City area)
+6129	Staff Civil/Structural Engineer - T&D Substation	Burns & McDonnell	96000.0	Phoenix, AZ
+6135	Data Scientist - Operations Research	Carvana	91500.0	Tempe, AZ
+6139	Data Scientist	Brightside	115500.0	Chandler, AZ
+6169	Postdoctoral Fellow: Bioinformatics	Phoenix Children's Hospital & University of Arizon...	55842.0	Phoenix, AZ 85004 (Central City area)
+6268	Big Data Solutions Architect	ClearScale	134000.0	Mesa, AZ 85204 (West Central area)
+6269	SOFTWARE ENGINEER	SYSTEMS ONCOLOGY	87500.0	Scottsdale, AZ
+6270	Senior Data Science Engineer	Carvana	125000.0	Tempe, AZ
+6271	Backend Engineer	Radius AI	117500.0	Phoenix, AZ
+6273	Sr. Software Engineer	CipherLoc Corporation	122000.0	Scottsdale, AZ 85255 (North Scottsdale area)
+7004	Data Scientist	City of Tacoma	120692.0	Tacoma, WA 98402 (Newtacoma area)
+7006	Data Scientist, Applied Analytics	Time Warner	115000.0	Seattle, WA
+7009	Data Scientist, SEO	Zillow Group	127500.0	Seattle, WA 98101 (Downtown area)
+7010	Data Scientist	Time Warner	117500.0	Seattle, WA
+7052	Data Scientist	Rover	130000.0	Seattle, WA
+7396	Program Manager/ Data Scientist	Inabia Solutions and Consulting	115000.0	Redmond, WA 98052
+7403	Principal Data Science Lead	Microsoft	117500.0	Redmond, WA
+7408	Data Scientist, Analytics - Brand Safety & Integrity Lead	Facebook	136000.0	Seattle, WA 98101 (Downtown area)
+7414	FullStack Developer	Highbrow Technologies	88500.0	Bellevue, WA
+7544	Software Engineer, Search & Discovery	Branch	149000.0	Seattle, WA
+7601	Engineer	City of Tacoma	94952.0	Tacoma, WA 98402 (Newtacoma area)
+7642	Junior Full-Stack Software Developer - Agile Team	BOEING	115500.0	Bellevue, WA
+7644	Software Development Engineer- Paid Marketing	Groupon	125000.0	Seattle, WA 98101 (Downtown area)
+7651	Software Developer 3	Oracle	121500.0	Bellevue, WA 98004 (Downtown area)
+7653	AI and Analytics Research Software Engineer	Cray	123000.0	Seattle, WA 98164 (Downtown area)
+7654	Software Engineering Manager	Microsoft	126500.0	Redmond, WA
+7686	Senior Software Engineer- Machine Learning	USA, Bellevue, WA	152000.0	Bellevue, WA
+7691	FRL AR/VR Software Engineer	Facebook	110000.0	Redmond, WA
+7694	Software Engineer, Backend (Multiple levels)	The Climate Corporation	142500.0	Seattle, WA
+7770	Staff UX/UI Designer	Gigamon	112500.0	Seattle, WA
+7771	ADMINISTRATIVE SPECIALIST	University of Washington	63500.0	Seattle, WA
+7786	Research Software Engineer (Algorithm Design)	Intellectual Ventures Management	109500.0	Bellevue, WA
+7787	Software Development Engineer - Bounty Board	Twitch	135000.0	Seattle, WA
+7828	Experienced,Systems Engineer Support Analyst	BOEING	100000.0	Everett, WA 98204 (Holly area)
+7829	Senior Full-Stack Software Developer	BOEING	127500.0	Bellevue, WA
+7833	Senior Software Engineer - Machine Learning	Snowflake Computing	138000.0	Seattle, WA
+7883	Software Developer - Big Data / Application Development Tool...	Oracle	129500.0	Bellevue, WA 98004 (Downtown area)
+7884	Sr. Software Engineer	BOEING	111500.0	Mukilteo, WA 98275
+7925	FRL Tracking Software Engineer	Facebook	109000.0	Redmond, WA
+7972	senior software engineer, Retail Operations - Seattle, WA	Starbucks	147500.0	Seattle, WA
+8006	Data Scientist	Proofpoint	131000.0	Broomfield, CO
+8010	Genomic Data Scientist - Cultivation R&D Team	Charlotte's Web	117500.0	Broomfield, CO
+8012	Agriculture Data Scientist - Agriculture Commodity Research...	McKinsey & Company	143500.0	Denver, CO
+8046	Geospatial Data Science - Researcher II	National Renewable Energy Laboratory	98000.0	Golden, CO 80401
+8047	Manager, Data Scientist, Machine Learning	KPMG	115000.0	Denver, CO 80202 (Lodo area)
+8048	Sr Professional Research Asst/Data Analyst	University of Colorado	50000.0	Aurora, CO
+8051	Operations Research Analyst	US Department of the Air Force	113620.5	Buckley AFB, CO
+8052	Data Scientist	Avanade	151500.0	Denver, CO
+8062	Systems Engineer Junior- Modeling & Analysis	BOEING	109000.0	Aurora, CO 80011 (Norfolk Glen area)
+8069	Sr Professional Research Asst	University of Colorado	65000.0	Aurora, CO
+8085	Systems Analyst - Electronic Research Administration (eRA)	University of Colorado	63818.0	Aurora, CO
+8087	Arctic Research Support and Logistics Services Program – Sci...	Jacobs	77000.0	Englewood, CO
+8121	Guidance Navigation & Control Engineer (Entry Level)	BOEING	116000.0	Aurora, CO 80011 (Norfolk Glen area)
+8122	Postdoctoral Researcher - Buildings Advanced Manufacturing a...	National Renewable Energy Laboratory	55000.0	Golden, CO 80401
+8175	Postdoctoral Researcher – Circular Economy for Clean Energy...	National Renewable Energy Laboratory	60500.0	Golden, CO 80401
+8182	Postdoctoral Researcher – Ultrafast Spectroscopy of Nanostru...	National Renewable Energy Laboratory	48500.0	Golden, CO 80401
+8183	Azure Data Architect	Quisitive	148500.0	Denver, CO
+8216	Systems Engineer - Louisville	Kelvin Inc.	99500.0	Louisville, CO
+8221	Systems Software Engineer	Xcalar	131500.0	Boulder, CO
+8224	Software Engineer	Rincon Research Corporation	127500.0	Centennial, CO
+8226	SOFTWARE ARCHITECT-RS 4	ULA	139000.0	Denver, CO
+8227	Software Engineer, VOD Engineering Group	Comcast	122500.0	Denver, CO 80202 (Lodo area)
+8256	Manager, UX Design	Carbon Black	107000.0	Boulder, CO
+8257	Engineer Associate - Systems (665157)	Ball Aerospace	87500.0	Boulder, CO
+8259	Full Stack Developer	ClimaCell	107000.0	Boulder, CO
+8263	Lead Solution Architect	Transamerica	128000.0	Denver, CO 80221
+8265	Software Engineer	Koverse	119500.0	Denver, CO
+8267	WH Design: Platform Designer/Information Architect (Design)...	IBM	129000.0	Greenwood Village, CO 80110
+8273	Full Stack Engineer	Xcalar	108000.0	Boulder, CO
+8274	Principal Systems Engineer	Radiant Solutions	132500.0	Westminster, CO
+8346	Sr. Software Engineer - Predictive Modeling	Alteryx, Inc.	122500.0	Broomfield, CO 80021
+8349	DevOps Architect-RS 4	ULA	116500.0	Denver, CO
+8351	Project Engineer I - Mechanical (664882)	Ball Aerospace	100000.0	Boulder, CO
+8352	DevOps Engineer-RS 3	ULA	100500.0	Denver, CO
+8353	Ground Systems Engineer I (664351) - Security clearance requ...	Ball Aerospace	77500.0	Boulder, CO
+8354	DevOps Engineer	Koverse	146000.0	Denver, CO
+8386	Electrical Engineer I - Focal Plane Electronics (665758)	Ball Aerospace	98500.0	Boulder, CO
+8391	Mid-Level Systems Engineer - SV Payload Engineer	BOEING	104000.0	Aurora, CO 80011 (Norfolk Glen area)
+8395	CIRES/NCEI Post-Doctoral Researcher in Geomagnetism	University of Colorado Boulder	49500.0	Boulder, CO 80303 (Southeast Boulder area)
+8396	Sr. Engineer - Detector Engineering (663761)	Ball Aerospace	120000.0	Boulder, CO
+8399	Principal Electrical Engineer - Focal Plane Electronics (665...	Ball Aerospace	100000.0	Boulder, CO
+8448	Detector Engineering Systems Engineer (663686) - Security Cl...	Ball Aerospace	102500.0	Boulder, CO
+8453	Civil Engineer	Kleinfelder, Inc.	75500.0	Denver, CO 80202 (Lodo area)
+8484	Ecommerce Manager	Rasa	95000.0	Boulder, CO 80302
+8491	Drone/UAV Field Operations Technician	Scientific Aviation	45000.0	Boulder, CO 80301
+8494	Software Engineer	SciTec	90000.0	Boulder, CO
+8499	IT Sales Executive	Aspen Systems	187500.0	Denver, CO
+8500	Senior Cloud Data Architect	Cloudreach	141500.0	Denver, CO
+8501	Software Engineer	Nexleaf Analytics	90000.0	Denver, CO
+8503	Big Data Solutions Architect	ClearScale	135000.0	Denver, CO 80202 (Lodo area)
+8504	Software Engineer	Aptology	100000.0	Denver, CO
+8514	Geospatial Architect	xentity corporation	125500.0	Golden, CO
+8519	Systems Engineer	Flagship Biosciences	90500.0	Westminster, CO 80021
+8520	Senior Software Engineer	SciTec	140000.0	Boulder, CO
+8523	UI/UX Engineer, Code & Architecture	DataRobot	118500.0	Denver, CO
+8602	Government Services Solution Architect	xentity corporation	149000.0	Golden, CO
+8603	Lead Front-End JavaScript Developer	Big Ladder Software	89000.0	Denver, CO 80202 (Lodo area)
+8605	Software Engineer II (OPIR Team)	Cosmic AES	91500.0	Centennial, CO 80112
+8607	Azure Infrastructure Architect (IaaS)	Quisitive	142000.0	Denver, CO
+8609	Senior Front End Engineer, UI/UX team	DataRobot	119000.0	Denver, CO
+8610	Independent Consultant - Government Solution Architect	xentity corporation	152000.0	Denver, CO
+8651	Senior Software Engineer	Nexleaf Analytics	101500.0	Denver, CO
+8653	Senior Software Engineer	Aptology	115000.0	Denver, CO
+8654	Senior Backend Engineer	DataRobot	111500.0	Denver, CO
+8658	Software Architect	GEI Consultants Inc	110000.0	Denver, CO 80237 (Southeastern Denver area)
+8821	Full Stack Software Engineer	Helix	131000.0	Denver, CO 80246 (Southeastern Denver area)
+8988	Research Scientist	University of Texas at Austin	125000.0	Austin, TX
+8992	Research Engineering/ Scientist Assistant	University of Texas at Austin	30000.0	Austin, TX
+9000	Research Associate - Quantitative Analyst Modeler	University of Texas at Austin	75000.0	Austin, TX
+9005	Data Science Engineer	Opcity	117500.0	Austin, TX
+9035	Digital Signal Processing Scientist	University of Texas at Austin	105998.0	Austin, TX
+9036	Research Engineering/ Scientist Assistant, Brumback/Howard l...	University of Texas at Austin	28000.0	Austin, TX
+9043	R&D Acoustics Engineering Scientist	University of Texas at Austin	105998.0	Austin, TX
+9059	Research Engineering Scientist Associate II, Department of N...	University of Texas at Austin	50000.0	Austin, TX
+9062	Signal Processing and Automation Engineering Scientist	University of Texas at Austin	105998.0	Austin, TX
+9074	Software Engineer Associate	University of Texas at Austin	75000.0	Austin, TX
+9104	R&D Embedded Design Engineering Scientist	University of Texas at Austin	105998.0	Austin, TX
+9121	Solution Software Developer / Architect	IBM	138500.0	Austin, TX 73344
+9162	Commercial Strategy and Planning, Manager	JUUL Labs	153000.0	Austin, TX
+9163	Senior Product Manager, Machine Learning Services	RetailMeNot, Inc.	117500.0	Austin, TX 78701 (Downtown area)
+9169	2019 University Security Engineer (Austin, TX & Mountain Vie...	Atlassian	114500.0	Austin, TX
+9176	Software Engineer, Senior - Semiconductor Test Systems	National instrument	130500.0	Austin, TX
+9192	Lead User Experience Designer	CDK Global	112000.0	Austin, TX 78730
+9199	Senior Software Engineer - Black Locus	The Home Depot	124000.0	Austin, TX 78716
+9200	Sr. Financial Analyst, Commercial Finance	JUUL Labs	106000.0	Austin, TX
+9203	System Architect - Scale and Performance	Cray	139000.0	Austin, TX 78730
+9205	Software Engineer - Network Management Systems	Cray	107500.0	Austin, TX 78730
+9207	Senior Software Engineer - Core Platform	Babylon Health	129500.0	Austin, TX
+9208	Senior Network Engineer	Cray	124500.0	Austin, TX 78730
+9242	Data Scientist	ScaleFactor, Inc.	93000.0	Austin, TX
+9247	Data Scientist	Cloudflare	120000.0	Austin, TX
+9250	Data Scientist and/or Software Engineer	RightPlace Consulting	149500.0	Austin, TX
+9265	Applied Machine Learning Engineer	Alegion	165000.0	Austin, TX
+9271	Part Time Data Science Instructor	General Assembly	104000.0	Austin, TX 78704 (South Lamar-South Congress area)
+9278	Development Director (nonprofit)	NumFOCUS	82500.0	Austin, TX
+9327	Lead Front End Engineer	Novi Labs	114000.0	Austin, TX 78723 (Windsor Park area)
+9331	Senior Software Engineer, Machine Learning	Procore Technologies	118500.0	Austin, TX
+9334	Senior Software Engineer - SparkPredict	SparkCognition	124000.0	Austin, TX 78759 (Arboretum area)
+9336	Senior Full Stack Engineer Python/Java	Novi Labs	125000.0	Austin, TX 78723 (Windsor Park area)
+9367	Backend Engineer (Javascript)	Suited	110000.0	Austin, TX
+9487	Senior Software Engineer – Machine Learning	Victory	126000.0	Austin, TX
+9967	Data Scientist	Kaiser Permanente	96500.0	Pasadena, CA 91101
+9968	Data Scientist	Sony Pictures Entertainment Inc.	110000.0	Culver City, CA 90232
+9969	Associate Data Scientist	Direct-to-Consumer and International	144500.0	Glendale, CA
+9971	Data Scientist, Product Analytics	TrueCar, Inc.	130000.0	Santa Monica, CA 90401
+9972	Data Scientist - Machine Learning, Ad Tech	Uber	137500.0	Santa Monica, CA 90401
+9973	Data Specialist, Arches	The J. Paul Getty Trust	61868.5	Los Angeles, CA 90049
+9974	Data Scientist	Meredith Corporation	115000.0	Los Angeles, CA
+9979	Data Scientist (Technology)	Hearts and Science	109000.0	Los Angeles, CA
+9981	Analyst, Data & Research	Los Angeles Homeless Services Authority	61029.5	Los Angeles, CA 90017
+9982	Data Scientist, Machine Learning	Zest Finance	140000.0	Los Angeles, CA
+9983	Data Scientist, Theatrical Marketing	Sony Pictures Entertainment Inc.	138500.0	Culver City, CA 90232
+9986	Data Scientist	Cigna	143500.0	Santa Monica, CA
+10020	Data Scientist (Advisor)	Southern California Edison	143500.0	Irwindale, CA 91702
+10023	Associate Data Scientist (Temp)	The Aerospace Corporation	123000.0	El Segundo, CA 90245
+10024	Data Science Application Development	Columbus Technologies and Services, Inc.	140000.0	Pasadena, CA 91101
+10025	Data Scientist	The Aerospace Corporation	131000.0	El Segundo, CA 90245
+10026	Data Scientist, Movie Marketing	Penn Schoen Berland	139000.0	Los Angeles, CA
+10033	Research Lab Specialist	USC	60239.0	Los Angeles, CA
+10064	Data Scientist III	Health Net of California	118500.0	Woodland Hills, CA
+10089	SENIOR STATISTICAL ANALYST, SHERIFF	Los Angeles County Department of Human Resources	61931.5	Los Angeles, CA
+10162	Software Engineer, Research Application Development	The J. Paul Getty Trust	84642.0	Los Angeles, CA 90049
+10174	Data Scientist - Manager	Capgemini	138500.0	Burbank, CA
+10255	CHIEF RESEARCH ANALYST, BEHAVIORAL SCIENCES	Los Angeles County Department of Human Resources	89637.5	Los Angeles, CA
+10342	Engineer Digital 2/3	Northrop Grumman	112500.0	Woodland Hills, CA
+10346	Data Science Machine Learning Lead	Booz Allen Hamilton	137500.0	El Segundo, CA
+10348	Science Systems Engineer w/Active TS/SCI	Columbus Technologies and Services, Inc.	131500.0	Pasadena, CA 91104
+10353	Financial Analyst - Mid Level	BOEING	79500.0	El Segundo, CA
+10375	Senior Software Analysis Engineer	The Aerospace Corporation	150000.0	El Segundo, CA 90245
+10407	Software Engineer	The Aerospace Corporation	126000.0	El Segundo, CA 90245
+10410	Software Engineer	UCLA Health	112000.0	Los Angeles, CA 90079
+10419	Senior Finance Analyst	Beckman Coulter - Diagnostics	83000.0	Brea, CA
+10420	Senior Software Engineer	Cyndx	143500.0	Santa Monica, CA
+10471	Civil Engineer (Hydraulics/Hydrologic)	US Department of the Army	97504.5	Los Angeles, CA
+10540	Detector Engineering Project Engineer (664678)	Ball Aerospace	105000.0	Los Angeles, CA
+10542	Telco/Media-Anaytics & Cognitive Data Scientist/Senior Manag...	Deloitte	120500.0	Los Angeles, CA 90071
+10543	Senior Backend Engineer, DSP	VideoAmp	139000.0	Santa Monica, CA
+10544	Software Systems Engineer, Advertising	AT&T	139500.0	Los Angeles, CA
+10545	Senior IT Systems Engineer	Magic Leap, Inc.	98500.0	Culver City, CA
+10547	Digital Signal Processing Eng (ECE) - AMTS	The Aerospace Corporation	124000.0	El Segundo, CA 90245
+10550	Embedded Security Engineer	The Aerospace Corporation	112500.0	El Segundo, CA 90245
+10553	Senior Front-end Software Engineer	Smarkets	144500.0	Los Angeles, CA
+10556	Software Engineer II	Raytheon	98500.0	El Segundo, CA
+10585	Spacecraft / Payload Controls Engineer	The Aerospace Corporation	95000.0	El Segundo, CA 90245
+10629	Data Scientist	上海冰鉴信息科技有限公司IceKredit	75000.0	Los Angeles, CA
+10637	Data Scientist - LA	CruiTek	160000.0	Los Angeles, CA
+10638	Research Analyst	CJ America	80000.0	Los Angeles, CA
+10639	Data Scientist/Visualization Master	Intermedia Advertising	111500.0	Los Angeles, CA 90067
+10641	Legal Research/Data Analyst	Legalmation	70000.0	Los Angeles, CA 90071
+10642	Data Scientist	Conversion Logic	142000.0	Los Angeles, CA 90025
+10646	Data Scientist	NEOGOV	112500.0	El Segundo, CA 90245
+10658	Market Research Analyst	Gemdale USA Corporation	72500.0	Pasadena, CA
+10675	Postdoc Researcher in Machine Learning for Materials	University of California Los Angeles	53358.0	Los Angeles, CA 90024
+10679	Software Engineer	Nexleaf Analytics	111500.0	Los Angeles, CA
+10681	Digital Marketing Manager	ICONIC Protein	75000.0	Santa Monica, CA 90401
+10686	Associate Account Manager - Client Services	TrueData	47500.0	Los Angeles, CA
+10688	Senior Scientist /Senior Analytical Chemist	Northridge Institute of Health Sciences&Beauty	77500.0	Northridge, CA
+10794	Senior Product Manager - Pivotal Labs	Pivotal Software	139500.0	Santa Monica, CA
+10795	Senior Backend Engineer - Trust & Safety	Tinder	181000.0	Los Angeles, CA
+10797	Senior Software Engineer	Conversion Logic	147500.0	Los Angeles, CA 90025
+10802	Systems Engineer IV w/ Active TS/SCI #2437	CMT Services Inc	123500.0	Pasadena, CA 91109
+10872	Senior DevOps Engineer	PlayQ	127000.0	Santa Monica, CA 90401
+10963	Data Scientist	FedEx Services	131000.0	Coraopolis, PA
+10965	Data Scientist	PNC Financial Services Group	99000.0	Pittsburgh, PA 15289 (Central Business District area)
+10968	Data Scientist – Labor Planning/Analytics	DICK'S Sporting Goods	96500.0	Coraopolis, PA 15108
+10969	Data Scientist Intern	York Risk Services Group	112500.0	Pittsburgh, PA
+10972	Data Scientist	Westinghouse Electric Company	125000.0	Cranberry Township, PA 16066
+10981	Financial Research Analyst	The University of Pittsburgh	35100.0	Pittsburgh, PA
+10992	Senior Statistician	The University of Pittsburgh	45942.0	Pittsburgh, PA
+10998	Research Scientist	The University of Pittsburgh	61542.0	Pittsburgh, PA
+11034	Research Technician	The University of Pittsburgh	26832.0	Pittsburgh, PA
+11052	Laboratory Research Specialist	The University of Pittsburgh	30810.0	Pittsburgh, PA
+11079	Research IT Systems Analyst - Intermediate	UPMC	82000.0	Pittsburgh, PA 15232 (Shadyside area)
+11110	SUPERVISORY CIVIL ENGINEER	US Department of the Army	102882.0	Pittsburgh, PA
+11111	InterRep,Data Mgt Quant Analysis	BNY Mellon	37500.0	Pittsburgh, PA 15238
+11120	Claims Research Analyst	Paragon Asset Recovery Services	31350.0	Coraopolis, PA 15108
+11134	Technical Lead - Advanced Data Processing	Petuum	126500.0	Pittsburgh, PA
+11135	Software Engineer	Immunetrics	88500.0	Pittsburgh, PA 15203 (Southside Slopes area)
+11136	Postdoc in Machine Learning and Genomics	University of Pittsburgh School of Medicine	57500.0	Pittsburgh, PA
+11137	Software Developer	Extrel CMS, LLC	72500.0	Pittsburgh, PA
+11138	Lead Systems Engineer, Performance & Data Analysis	Argo AI	102500.0	Pittsburgh, PA 15222 (Strip District area)
+11141	Postdoctoral Position in Machine Learning and Genomics	University of Pittsburgh School of Medicine	57500.0	Pittsburgh, PA
+11173	Full Stack Developer	Cognistx	104500.0	Pittsburgh, PA
+11174	Senior Software Developer	Invent Analytics	87000.0	Pittsburgh, PA
+11178	Software Engineer - In Test	Petuum	109500.0	Pittsburgh, PA
+11179	Senior Software Engineer - Autonomy	Neya Systems	111000.0	Warrendale, PA
+11181	Senior Software Engineer - Autonomy	Neya Systems LLC	111500.0	Warrendale, PA 15086
+11182	Electrical Engineer	Gaven Industries Inc	82500.0	Saxonburg, PA 16056
+11206	Solutions Architect - Healthcare	Petuum	122500.0	Pittsburgh, PA
+11215	Senior Software Engineer - Advanced Data Processing	Petuum	108000.0	Pittsburgh, PA
+11221	Senior Software Engineer - Machine Learning	Petuum	128500.0	Pittsburgh, PA
+12097	MARKET RESEARCH ANALYST	IMW Internet Marketing WorldWide	37086.0	Miami Beach, FL
+12125	Front End Software Developer for GIS/Risk Assessment Modelin...	Coastal Risk Consulting, LLC	64500.0	Plantation, FL 33324
+12968	Fishery Technician III	Columbia River Inter-Tribal Fish Commission (CRITF...	41893.0	Portland, OR
+13004	Data Platform Architect	CDK Global	110500.0	Portland, OR 97201 (Homestead area)
+13017	Assay Researcher (Sr. Research Assistant)	Oregon Health & Science University	44551.0	Portland, OR
+13030	Full-Stack Software Engineer III for Data Analytics	CDK Global	116500.0	Portland, OR 97201 (Homestead area)
+13038	Senior Software Engineer	Walmart Stores	108000.0	Portland, OR 97204 (Downtown area)
+13044	Business Systems Analyst III	CDK Global	95500.0	Portland, OR 97201 (Homestead area)
+13049	Performance Testing Automation Engineer	NVIDIA	113000.0	Hillsboro, OR
+13062	Front End Engineer II (React)	CDK Global	95000.0	Portland, OR 97201 (Homestead area)
+13064	Software Engineer II - React	CDK Global	101000.0	Portland, OR 97201 (Homestead area)
+13065	Senior Financial Analyst	Autodesk	88500.0	Portland, OR
+13080	Software Engineer II - Java	CDK Global	92500.0	Portland, OR 97201 (Homestead area)
+13082	Senior Product Manager - Cirium - Portland, Reston or Dallas	Reed Business Information	125000.0	Portland, OR
+13083	Full Stack / Front End Software Engineer	Kinsa Inc.	103000.0	Portland, OR
+13085	Senior Software Engineer IV - Fortellis Platform (Portland)	CDK Global	120000.0	Portland, OR 97201 (Homestead area)
+13086	QA Automation Engineer IV	CDK Global	99000.0	Portland, OR 97201 (Homestead area)
+13123	Business Analyst	Sitka Technology Group	62000.0	Portland, OR 97204 (Downtown area)
+13151	Lead Front End Engineer (React)	i.t.motives	108000.0	Portland, OR
+13152	Senior Front End Engineer (React)	i.t.motives	102500.0	Portland, OR
+13155	Senior Software Engineer (Java)	i.t.motives	111000.0	Portland, OR
+13158	Lead Software Engineer (Java)	i.t.motives	129000.0	Portland, OR
+13243	DevOps Engineer (AWS)	i.t.motives	115000.0	Portland, OR
+13960	Data Scientist/Research Technologist (Level 4) - 1037	Comcast	108000.0	Philadelphia, PA 19103
+13961	DATA SCIENTIST CO-OP	Comcast	112500.0	Philadelphia, PA 19103
+13962	Master Data Scientist	Deloitte	84000.0	Horsham, PA
+13963	Data Scientist- Accelerated Enrollment Solutions (AES)	PPD	120500.0	Horsham, PA
+13965	Data Scientist II-4238	Comcast	116500.0	Philadelphia, PA 19103
+13966	Data Scientist	Piper Companies	130000.0	Malvern, PA 19355
+13967	Scientist, Data Science	Johnson & Johnson Family of Companies	110000.0	Spring House, PA
+13969	Data Scientist I	Black Knight	104000.0	Philadelphia, PA
+14000	Healthcare Data Science Consultant	Accenture	143500.0	Philadelphia, PA 19103
+14005	Biological Data Scientist	GlaxoSmithKline	121000.0	Collegeville, PA 19426
+14046	Interdisciplinary Engineer/Operations Research Analyst	US Department of Defense	92929.0	Ridley Park, PA
+14129	Business Development Specialist (Market Research Analyst)	Sricom	60000.0	Voorhees, NJ 08043
+14156	Data Engineer, Analytics & Behavior Science	Comcast	139500.0	Philadelphia, PA 19103
+14295	Software Engineer	Clarivate Analytics	100000.0	Philadelphia, PA 19130 (Fairmount-Spring Garden area)
+14346	Postdoctoral Researcher	Drexel University	58000.0	Philadelphia, PA
+14350	Munitions Response Project Engineer or Scientist	Weston Solutions	81000.0	West Chester, PA
+14354	Telco/Media-Anaytics & Cognitive Data Scientist/Senior Manag...	Deloitte	123500.0	Philadelphia, PA 19103
+14420	Fraud Risk Group Manager (Fraud Advanced Analytics Group Man...	Citi	151500.0	Wilmington, DE 19894
+14424	Sr. Software Engineer - Simulation	Grubhub	126500.0	Philadelphia, PA
+14524	Research Solutions Analyst	The J.G. Wentworth Company	42500.0	Chesterbrook, PA 90245
+14535	Research Associate	Prelude Therapeutics Incorporated	60000.0	Wilmington, DE
+14543	Data Engineer Technical Lead	Jornaya	132500.0	Conshohocken, PA 19428
+14574	DevOps Engineer	Childhood Cancer Data Lab	106500.0	Philadelphia, PA 19102 (City Center West area)
+14575	Automated Test Engineer	Sidecar	110000.0	Philadelphia, PA 19107 (City Center East area)
+14579	Lab-Sarma - Post-Doctoral Fellow	Wistar	47500.0	Philadelphia, PA 19104 (Belmont area)
+14742	Software Engineer	IntegriChain	89000.0	Philadelphia, PA 19103
